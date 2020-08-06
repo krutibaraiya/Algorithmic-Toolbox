@@ -1,2 +1,3 @@
 # Algorithmic-Toolbox
-Assignment solutions for Algorithmic Toolbox on Coursera
+
+My assignment submissions for Algorithmic Toolbox on Coursera
